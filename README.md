@@ -36,9 +36,16 @@ One challenge I faced in week 4 was that the play dough for my controller dried 
 ###Week 5
 For my controller I decided to move away from play dough, to a less conductive material, as the play dough was causing me a lot of issues by trying to separate the controller from the buttons. In the end I decided to move to cardboard for my controller.
 
-Furthermore in week 5 my comp150 group worked on the first sprint of out game and managed to get a grid based system working for the game.
+Furthermore in week 5 my comp150 group worked on the first sprint of our game and managed to get a grid based system working.
 
 ###Week 6
-I was ill for most of week 6 
+I was ill for most of week 6 but I made it to the comp140 hardware submission on Monday where we had to demonstrate how our controllers work in class. 
+
+As I was ill I went through the slides online and tried to research as much as possible.
+
+###Week 7
+Week 7 we covered IP and the laws that govern it, I found this very helpful as I didn't know much about it and I feel it is very important to know, although some of it was quite confusing and I found a lot of it was quite hard to digest.
+
+This week I have been trying to catch up on the material I missed in the previous week and I am finding it quite hard to juggle so many projects at once.
 
 
