@@ -46,6 +46,36 @@ As I was ill I went through the slides online and tried to research as much as p
 ###Week 7
 Week 7 we covered IP and the laws that govern it, I found this very helpful as I didn't know much about it and I feel it is very important to know, although some of it was quite confusing and I found a lot of it was quite hard to digest.
 
-This week I have been trying to catch up on the material I missed in the previous week and I am finding it quite hard to juggle so many projects at once.
+This week I have been trying to catch up on the material I missed in the previous week. 
 
 
+###E1
+During the first week of the Easter holiday I started work on the coding task two for my group game project. I found this quite daunting, as I still feel quite unfamiliar with C++ and the whole object orientated design.
+
+###E2
+
+In the second week of the Easter holiday I worked a little more on the coding task two, and a little bit on the game project, however I still was trying to understand how the values can get passed between classes. To overcome this I started reading some general C++ support websites.
+
+###E3
+
+In the third week of the holidays I focused on the API project for the API-Hacking module. I found this quite easy as I have used unity before, and was quite familiar with how it generally works. I started by editing the rain script within the game, which only set the weather randomly. I started looking at which weather API would be the most appropriate to implement into the game. In the end I settled for openweathermap.org as this allows for free usage if you sign up. Further more I actually manage to get the API working within a day of programming, which I was quite happy about.
+
+###Week 8
+
+When returning we learned about git workflows such as gitflow, that makes use of branches to break up projects into smaller individual pieces. So for the game project, I created my own branch called Enviroment-AI in which I will continue to work on my individual coding task II.
+
+###Week 9
+
+This week I worked more on coding task II and managed to get some functional code that can add and remove oxygen from a cell. However this still is very buggy, so I should work on this more next week and try and remove most of the bugs.
+
+###Week 10
+
+This week I worked a little bit on the group project, but mostly I woked on the Agile essay that is due soon, for the essay I am writing about what issues distributed teams encounter when using Agile, furthermore how can these issues be addressed. I have found quite a few academic sources that relate to the topic in hand, however If I want to get a higher grade, I need to find some extra sources that I will try and find next week.
+
+###Week 11
+
+I have been working on the comp150 Teamwork review, which addresses the issues we faced when working on the group project, and I feel like this feedback will help a lot for future group projects.
+
+###Week 12
+
+This week I have been working on the coding task II and the group game project. In the last week our team has managed to finish off the game to a playable state, with a goal. I managed to get my coding task II implemented into the game so that users can click on a room to increase the oxygen level. However this crunch time was quite stressfull, and I now know to try and avoid it in future projects.
